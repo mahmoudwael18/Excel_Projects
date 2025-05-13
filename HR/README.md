@@ -33,4 +33,4 @@ This project focuses on cleaning and analyzing HR employee data to extract key i
 
 ![<h1>Final Dashboard</h1>
 
-![ABC_Company Dashboard](https://github.com/mahmoudwael18/Excel_Projects/blob/main/Screenshot%202025-05-13%20210443.png?raw=true)
+![ABC_Company Dashboard](file:///C:/Users/AREHUR/Pictures/Screenshots/Screenshot%202025-05-13%20210443.png)
