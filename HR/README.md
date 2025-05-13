@@ -31,6 +31,5 @@ This project focuses on cleaning and analyzing HR employee data to extract key i
 
 <h1>Final Dashboard</h1>
 
-![<h1>Final Dashboard</h1>
 
 ![ABC_Company Dashboard](https://github.com/user-attachments/assets/4dcfd1d6-ac34-4e4b-9148-6aad5819441a)
