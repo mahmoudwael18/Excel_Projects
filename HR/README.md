@@ -28,3 +28,9 @@ This project focuses on cleaning and analyzing HR employee data to extract key i
 
 📁 *File used: `HR_Pro.xlsx`*  
 🛠 *Tools: Excel , Excel Pivot Tables*
+
+<h1>Final Dashboard</h1>
+
+![<h1>Final Dashboard</h1>
+
+![ABC_Company Dashboard](Screenshot 2025-05-13 210443.png)
