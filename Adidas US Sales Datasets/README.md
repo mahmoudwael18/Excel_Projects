@@ -21,4 +21,4 @@ In this project, I cleaned and analyzed Adidas sales data to uncover key busines
 
 <h1>Final Dashboard</h1>
 
-![Adidas_Sales_Dashboard](gdfgfdgdfgfg)
+![Adidas_Sales_Dashboard](https://github.com/user-attachments/assets/2ef3bc3e-18c3-40b2-b39c-bd379434b3fa)
